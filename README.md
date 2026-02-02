@@ -7,18 +7,10 @@ Scripts from the single cell course
 |----|-----------|
 |cellranger.sh|file number 1|
 |emapper.sh|des|
-|----|-----------|
 |fastqc.sh|des|
-|----|-----------|
 |readcounts.sh|des|
-|----|-----------|
 |readcounts_new.sh|des|
-|----|-----------|
 |star_align.sh|des|
-|----|-----------|
 |star_align_QC.sh||
-|----|-----------|
 |stringtie.sh|des|
-|----|-----------|
 |trimmomatic.sh|des|
-|----|-----------|
