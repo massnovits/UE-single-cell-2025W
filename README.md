@@ -6,7 +6,6 @@ Scripts from the single cell course
 |File|Description|
 |----|-----------|
 |cellranger.sh|file number 1|
-|----|-----------|
 |emapper.sh|des|
 |----|-----------|
 |fastqc.sh|des|
